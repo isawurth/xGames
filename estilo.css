@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+#form{
+    color:white;
+    text-align: center;
+    
+}
+
+#form a{
+    color:white;
+}
+
+#titulo{
+    color:white;
+}
+
+#carouselExampleIndicators{
+    width: 100%;
+ 
+    background-color: blue;
+}
